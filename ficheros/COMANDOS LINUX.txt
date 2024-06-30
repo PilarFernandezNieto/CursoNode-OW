@@ -1,0 +1,55 @@
+NAVEGACION ENTRE DIRECTORIOS
+cd   Nos permite cambiar de directorio
+cd ~  Nos regresa a la carpeta del usuario o home :D
+ls  Lista los archivos y carpetas de un directorio 
+ls -l  Lista carpetas y directorios, también nos permite ver si es un directorio o archivo
+pwd  Nos imprime el path o ruta en donde estemos posicionados 
+
+
+CREAR Y BORRAR ARCHIVOS Y CARPETAS
+mkdir – crear una carpeta nueva
+rmdir – borrar una carpeta vacía
+touch – sirve para crear una archivo 
+rm – sirve para borrar archivos 
+rm -R – borra archivos y carpetas, que estén dentro de las mismas
+
+LEER ARCHIVOS Y CARPETAS
+cat – sirve para leer una archivo 
+more – sirve para leer contenido de un archivo de texto plano
+man – nos da la documentación de un comando si es que la tiene
+nano - editar un archivo
+
+MOVER Y COPIAR ARCHIVOS
+mv – comando que sirve para mover archivos y carpetas aun si contienen archivos
+cp – comando que sirve para copiar archivos
+cp -R – copias carpeta y archivos
+
+PERMISOS
+chmod - comando para dar permisos de lectura, escritura y ejecución
+chown - comando que nos sirve para cambiar de usuario propietario y grupo
+sudo su - comando para ser usuario root o administrador 
+
+OTROS COMANDOS
+grep - puedes hacer una búsqueda por nombre en un archivo o en un listado de procesos.
+pgrep - comando para buscar id de proceso.
+Kill  -  sirve para matar un proceso o varios. 
+Derivados de kill
+  * Kill 'id de proceso'
+  * killall 'nombre de proceso'
+  * kill -stop 'id de proceso'
+  * kill -cont 'id de proceso'
+
+OTROS IMPORTANTES
+● adduser: Es un comando que nos sirve para crear un nuevo usuario 
+● adduser  “nombreUsuario” 
+● Passwd comando para agregar nueva contraseña a un usuario 
+● Passwd “nombreUsuario” 
+● Obtener la lista de usuario cat /etc/passwd 
+● Borrar un usuario deluser “nombreUsuario” 
+● Borrar usuario con home deluser --remove-home “usuario”
+
+
+
+Este es un texto nuevo
+
+Este es un texto nuevo
