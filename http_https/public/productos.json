@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Camiseta Deportiva",
+        "descripcion": "Camiseta de poliéster para actividades deportivas.",
+        "precio": 19.99,
+        "disponible": true,
+        "departamento": "Ropa"
+    },
+    {
+        "nombre": "Auriculares Inalámbricos",
+        "descripcion": "Auriculares con cancelación de ruido y larga duración de batería.",
+        "precio": 89.99,
+        "disponible": true,
+        "departamento": "Electrónica"
+    },
+    {
+        "nombre": "Cafetera de Goteo",
+        "descripcion": "Cafetera de goteo con capacidad de 12 tazas.",
+        "precio": 39.99,
+        "disponible": false,
+        "departamento": "Hogar"
+    },
+    {
+        "nombre": "Zapatillas de Running",
+        "descripcion": "Zapatillas ligeras y cómodas para correr.",
+        "precio": 59.99,
+        "disponible": true,
+        "departamento": "Ropa"
+    },
+    {
+        "nombre": "Reloj Inteligente",
+        "descripcion": "Reloj inteligente con monitoreo de actividad y notificaciones.",
+        "precio": 129.99,
+        "disponible": true,
+        "departamento": "Electrónica"
+    },
+    {
+        "nombre": "Batidora de Mano",
+        "descripcion": "Batidora de mano con múltiples velocidades y accesorios.",
+        "precio": 24.99,
+        "disponible": false,
+        "departamento": "Hogar"
+    },
+    {
+        "nombre": "Set de Lápices de Colores",
+        "descripcion": "Set de 48 lápices de colores de alta calidad.",
+        "precio": 14.99,
+        "disponible": true,
+        "departamento": "Papelería"
+    },
+    {
+        "nombre": "Mochila Escolar",
+        "descripcion": "Mochila con múltiples compartimentos y diseño ergonómico.",
+        "precio": 29.99,
+        "disponible": true,
+        "departamento": "Papelería"
+    },
+    {
+        "nombre": "Lámpara de Escritorio LED",
+        "descripcion": "Lámpara con luz LED ajustable y puerto de carga USB.",
+        "precio": 34.99,
+        "disponible": false,
+        "departamento": "Hogar"
+    },
+    {
+        "nombre": "Tablet 10 Pulgadas",
+        "descripcion": "Tablet con pantalla de 10 pulgadas y 64GB de almacenamiento.",
+        "precio": 199.99,
+        "disponible": true,
+        "departamento": "Electrónica"
+    }
+]
