@@ -1,0 +1,23 @@
+{
+  "name": "cursonode-ow",
+  "version": "1.0.0",
+  "description": "Curso Node de OpenWebinars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PilarFernandezNieto/CursoNode-OW.git"
+  },
+  "author": "Pilar Fernández Nieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PilarFernandezNieto/CursoNode-OW/issues"
+  },
+  "homepage": "https://github.com/PilarFernandezNieto/CursoNode-OW#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colors": "^1.4.0"
+  }
+}
